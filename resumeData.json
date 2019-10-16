@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Adithya Sireesh",
+    "occupation":"Student",
+    "description":"Tennis Player | Chess enthusiast | Computer Science and Mathematics Student | University of Edinburgh | Software Engineer | ML/DL enthusiast",
+    "image":"profilepic.jpg",
+    "bio":"As you can see from the background pic, I love playing tennis. I am also fond of playing chess, and just about any classic strategy based game. I am a mathematics enthusiast. During my free time, I like to apply my mind in trying to come up with methods to solve various unsolved math problems. This habit not only helps me stimulate my brain, but also it teaches me to not stick to a single approach and come up with various perspectives while tackling any problems in life.",
+    "contactmessage":"Hit me up if you want to collaborate with me on some projects, start a company with me 😎, or just want to have a chat.",
+    "email": "adithya.sireesh@gmail.com",
+    "phone": "+44 7412962126",
+    "address":{
+      "street":"Clerk Street",
+      "city":"Edinburgh",
+      "state":"Scotland",
+      "zip": "EH9 1NJ"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/adi.sireesh",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Adithya_Sireesh",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/s1616497",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/adithya.sireesh",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/AdithyaSireesh",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have a strong interest in Machine Learning(mainly Deep Learning), and am actively looking for jobs in this domain.",
+    "education":[
+      {
+        "school":"University of Edinburgh",
+        "degree":"BSc.(Hons) Computer Science and Mathematics",
+        "graduated":"May 2020",
+        "description":"I am currently in my 4th year of study. During my time in university, I have been a part of many clubs/societies: EUTIC(Trading and Investing Club), EULTC(Tennis club), HypEd(The Uni's club for participating in the Hyperloop pod competition), CompSoc, MathSoc. I have even taken up leadership roles: Tutor for MathBuddies(a program to assist 1st year Physics students with their math courses) and EULTC Development Team Manager. I was the men's team manager for the newly created development tennis teams."
+      }
+    ],
+    "work":[
+      {
+        "company":"Amazon",
+        "title":"SDE Intern",
+        "years":"July 2018 - Present",
+        "description":"Worked on analysing business metrics for Prime Video and creating a pipeline to generate automatic business reports. I built a serverless data lake in order to get more insights about the business."
+      },
+      {
+        "company":"AlgoSurg Inc.",
+        "title":"Machine Learning Research Intern (YC W18)",
+        "years":"Jun 2018 - Sep 2018",
+        "description":"I built a statistical shape model(SSM) which can be applied in image segmentation of CT data of the knee region. I also helped in making a fitting algorithm where I applied the SSM in order to automate the segmentation of the femur bone in the CT scan of the knee region."
+      },
+      {
+        "company":"HypEd",
+        "title":"Software Engineer",
+        "years":"Oct 2017 - Jun 2018",
+        "description":"I devised an algorithm to find the orientation of the hyperloop pod using only proximity sensor data. I also worked on building some of the math libraries that were being used by the software teams."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"AWS",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      },
+      {
+        "name":"Java",
+        "level":"75%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      },
+      {
+        "name":"Keras",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Coinz",
+        "category":"An android app where players have to walk around edinburgh uni campus to collect Cryptocurrency.",
+        "image":"coinz-image.jpg",
+        "url":"https://github.com/AdithyaSireesh/new_new_Coinz"
+      },
+      {
+        "title":"Connect 4 collaborate",
+        "category":"A bot to play connect 4. I have implemented minimax search and minimax search with alpha-beta pruning.",
+        "image":"connect-4.jpeg",
+        "url":"https://github.com/AdithyaSireesh/Connect4Game"
+      },
+      {
+        "title":"Natural Language Query System",
+        "category":"A system that reads simple facts and then answers questions about them. You can think of it as a simple form of both machine reading and question answering.",
+        "image":"nlqsystem.jpg",
+        "url":"https://github.com/AdithyaSireesh/NL-Query-System"
+      },
+      {
+        "title":"Zesty",
+        "category":"A webiste to connect home chefs to people.",
+        "image":"feelzesty.png",
+        "url":"https://feelzesty.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"You are a very hard-working person. Keep up this attitude in all your endeavors, and your work will be noticed.",
+        "user":"Vikas Karade CEO, AlgoSurg (YC W18)"
+      }
+    ]
+  }
+}
